@@ -1,4 +1,4 @@
-# White Label Exercise:
+# WordPress Exercise:
 
 > School Of Whales\
 > 03-25-2022\
