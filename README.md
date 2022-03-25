@@ -9,7 +9,7 @@
 > This theme was created on New Wordpress Installation based on a Blank Canvas.
 
 > **Instructions:**
-1. Unzip the sow-theme.zip inside wp-content/themes or do the regular installation (Add Themes > Upload Theme)
+1. Unzip the sow-theme.zip inside wp-content/themes or do the regular installation and activation (Add Themes > Upload Theme)
 2. After that go to Tools > Import > Import WordPress and choose sow-content.xml
 3. I populate the database with some SOW Press content but You can create new ones
 
